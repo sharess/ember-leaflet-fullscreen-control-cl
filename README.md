@@ -1,14 +1,8 @@
 ember-leaflet-fullscreen-control
 ==============================================================================
 
-[Short description of the addon.]
+Use [leaflet.fullscreen](https://github.com/brunob/leaflet.fullscreen) in Ember with [ember-leaflet](https://ember-leaflet.com).
 
-
-Compatibility
-------------------------------------------------------------------------------
-
-* Ember.js v2.18 or above
-* Ember CLI v2.13 or above
 
 
 Installation
@@ -22,8 +16,14 @@ ember install ember-leaflet-fullscreen-control
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+```hbs
+<LeafletMap …>
+  {{!-- … --}}
+  <LeafletFullscreenControl />
+</LeafletMap>
+```
 
+All leaflet.fullscreen are support like this `<LeafletFullscreenControl @position="topleft" />`. Have a look at the leaflet.fullscreen readme. The enter/exit fullscreen events are not supported, yet.
 
 License
 ------------------------------------------------------------------------------
