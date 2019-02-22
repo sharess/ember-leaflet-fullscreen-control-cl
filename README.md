@@ -1,7 +1,7 @@
 ember-leaflet-fullscreen-control
 ==============================================================================
 
-Use [leaflet.fullscreen](https://github.com/brunob/leaflet.fullscreen) in Ember with [ember-leaflet](https://ember-leaflet.com).
+Use [leaflet.fullscreen](https://github.com/brunob/leaflet.fullscreen) in Ember with [ember-leaflet](https://ember-leaflet.com) to add a fullscreen button to your maps.
 
 
 
@@ -23,7 +23,7 @@ Usage
 </LeafletMap>
 ```
 
-All leaflet.fullscreen are support like this `<LeafletFullscreenControl @position="topleft" />`. Have a look at the leaflet.fullscreen readme. The enter/exit fullscreen events are not supported, yet.
+All leaflet.fullscreen are supported (e.g. `<LeafletFullscreenControl @position="topleft" />`). Have a look at the leaflet.fullscreen readme. The enter/exit fullscreen events are not supported, yet.
 
 License
 ------------------------------------------------------------------------------
