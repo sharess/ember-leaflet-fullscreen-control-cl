@@ -34,7 +34,7 @@
     "leaflet.fullscreen": "^1.4.5"
   },
   "devDependencies": {
-    "@ember/optional-features": "^0.6.3",
+    "@ember/optional-features": "^0.7.0",
     "babel-eslint": "^8.2.6",
     "broccoli-asset-rev": "^2.7.0",
     "ember-cli": "~3.7.1",
