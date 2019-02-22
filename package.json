@@ -1,13 +1,19 @@
 {
   "name": "ember-leaflet-fullscreen-control",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Use leaflet.fullscreen in Ember with ember-leaflet.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-leaflet",
+    "leafet",
+    "fullscreen"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evocount/ember-leaflet-fullscreen-control"
+  },
   "license": "MIT",
-  "author": "",
+  "author": "Till Theato <till.theato@evocount.de>",
   "directories": {
     "doc": "doc",
     "test": "tests"
