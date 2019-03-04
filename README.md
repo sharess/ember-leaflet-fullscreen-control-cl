@@ -9,7 +9,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-leaflet-fullscreen-control
+ember install ember-leaflet-fullscreen-control-cl
 ```
 
 
