@@ -1,4 +1,4 @@
-ember-leaflet-fullscreen-control
+ember-leaflet-fullscreen-control-cl
 ==============================================================================
 
 Use [leaflet.fullscreen](https://github.com/brunob/leaflet.fullscreen) in Ember with [ember-leaflet](https://ember-leaflet.com) to add a fullscreen button to your maps.
@@ -9,7 +9,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-leaflet-fullscreen-control
+ember install ember-leaflet-fullscreen-control-cl
 ```
 
 

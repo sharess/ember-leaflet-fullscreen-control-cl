@@ -3,7 +3,7 @@
 ## Installation
 
 * `git clone <repository-url>`
-* `cd ember-leaflet-fullscreen-control`
+* `cd ember-leaflet-fullscreen-control-cl`
 * `npm install`
 
 ## Linting

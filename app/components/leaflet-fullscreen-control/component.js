@@ -1,1 +1,1 @@
-export { default } from 'ember-leaflet-fullscreen-control/components/leaflet-fullscreen-control/component';
+export { default } from 'ember-leaflet-fullscreen-control-cl/components/leaflet-fullscreen-control/component';
