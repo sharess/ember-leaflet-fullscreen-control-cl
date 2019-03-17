@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/evocount/ember-leaflet-fullscreen-control-cl"
+    "url": "https://github.com/sharess/ember-leaflet-fullscreen-control-cl"
   },
   "license": "MIT",
   "author": "Till Theato <till.theato@evocount.de>, francesco Di Girolamo contrib",
